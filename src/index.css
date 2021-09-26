@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'FCIconic';
+  src: url(./font/FCIconicRegular.ttf) format('truetype');
+  font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.backgroundcolor {
+  background-image: url("../img/login\ –\ 1.png");
+  background-color: #cccccc;
+  /* height: 500px; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+
+  .font{
+    font: 100px;
+    color: #2A2866;
+    font-family: 'FCIconic';
+  }
+  
+  .box {
+    margin: auto;
+    top: 85px;
+    left: 526px;
+    width: 400px;
+    height: 500px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 30px #2A28661A;
+    border: 1px solid #F0EFF4;
+    border-radius: 25px;
+    opacity: 1;
+  }
+  
+  .setcenter{
+    text-align: center
+  }
+  
+  .inputBox{
+    width: 10em;
+  }
+
+  .center {
+    padding-left: 3em;
+    padding-right: 3em;
+    align-items: center;
+    justify-content: center;
+    /* border: 3px solid green; */
+    text-align: center;
+  }
+  
+  .text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: "----";
+  }
+  
+  .button{
+    margin-bottom: 1ex;
+  }
+  
