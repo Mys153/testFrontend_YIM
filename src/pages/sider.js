@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 // import '../css/sider.css'
-import '../App.css'
 import { Layout, Menu, Row, Col, } from 'antd';
 import { PieChartOutlined, FileTextOutlined, ExceptionOutlined, PhoneOutlined, } from '@ant-design/icons';
 
@@ -39,6 +38,7 @@ class Sidebar extends Component {
             //         </Menu.Item>
             //     </Menu>
             // </Sider>
+
             <Sider className="sidetab">
                 <div className="image">
                     <img src={Logo}

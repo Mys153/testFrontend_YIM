@@ -1,12 +1,12 @@
-.background{
+.backgroundDash{
     background-image: url("../img/Background.png");
     background-color: #F5F6FA;
-    /* height: 100vh;
+    height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    display: flex;
+    /* display: flex;
     justify-content: center;
     align-items: center; */
 }
