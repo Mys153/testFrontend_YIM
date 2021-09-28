@@ -27,3 +27,8 @@
 .steps-action {
     margin-top: 24px;
 }
+
+.style{
+    background-color: #ff0000; 
+    padding: '8px 0' ;
+}

@@ -1,19 +1,26 @@
-.backgroundcolor {
+.background {
   background-image: url("../img/login\ –\ 1.png");
   background-color: #cccccc;
-  /* height: 500px; */
+  height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   }
 
-  .font{
-    font: 100px;
-    color: #2A2866;
+  .font {
     font-family: 'FCIconic';
+    color:#2A2866 ;
   }
   
+  .font-strong {
+    font-family: 'FCIconic';
+    color:#2A2866 ;
+  }
+
   .box {
     margin: auto;
     top: 85px;
@@ -29,34 +36,43 @@
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 0px 3px 30px #2A28661A;
     border: 1px solid #F0EFF4;
-    border-radius: 25px;
+    border-radius: 15px;
     opacity: 1;
-  }
-  
-  .setcenter{
-    text-align: center
-  }
-  
-  .inputBox{
-    width: 10em;
   }
 
   .center {
-    padding-left: 3em;
-    padding-right: 3em;
+    width: 80%;
+    height: 80%;
     align-items: center;
     justify-content: center;
     /* border: 3px solid green; */
     text-align: center;
   }
   
-  .text {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: "----";
-  }
-  
-  .button{
+  .button {
     margin-bottom: 1ex;
+    background-color: #2A2866;
+  }
+
+  .left-text {
+    text-align: left;
   }
   
+  .right-text {
+    text-align: right;
+  }
+
+  .style-inputbox {
+    width: 100%;
+    text-align: left;
+  }
+
+  .margin-top-bottom {
+    margin-top: 10px;
+    margin-bottom: 12px;
+  }
+
+  .margin-top-logo {
+    margin-top: 10px;
+
+  }

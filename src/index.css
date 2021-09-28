@@ -15,5 +15,10 @@ code {
 @font-face {
   font-family: 'FCIconic';
   src: url(./font/FCIconicRegular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'FCIconic';
+  src: url(./font/FCIconicBold.ttf) format('truetype');
   font-weight: bold;
 }
