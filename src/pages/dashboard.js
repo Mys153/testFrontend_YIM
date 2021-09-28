@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import '../css/dash.css'
+import '../App.css'
 import { Layout, Image } from 'antd';
 import { PieChartOutlined, LineChartOutlined, FileTextFilled } from '@ant-design/icons';
 import { Row, Col, Divider } from 'antd';
@@ -156,7 +157,7 @@ class Dashboard extends Component {
             // </Layout >
             // </Nonebackground>
 
-            <div className="backgroundDash">
+            <div className="backgroundDetail">
                 <Nonebackground>
                     <Layout>
                         <Sider />

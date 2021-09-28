@@ -51,7 +51,7 @@ const menu = (
 class Login extends Component {
   render() {
     return (
-      <div class="background">
+      <div class="backgroundLogin">
         <div class="box">
           <div class="center">
             <img width={70} src={Logo} />
