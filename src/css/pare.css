@@ -1,0 +1,150 @@
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    width: 50%; 
+    }
+    .boxmenu{
+    width: 106px;
+    height: 99px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 15px;
+    opacity: 1;
+    }
+    .boxmenupic{
+    width: 106px;
+    height: 99px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: var(--unnamed-color-2a2866) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #2A2866 0% 0% no-repeat padding-box;
+    border: 1px solid #F0EFF4;
+    border-radius: 15px;
+    opacity: 1;
+    }
+    .iconmenu{
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    .menupic{
+    width: 106px;
+    height: 99px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: var(--unnamed-color-2a2866) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #2A2866 0% 0% no-repeat padding-box;
+    border: 1px solid #F0EFF4;
+    border-radius: 15px;
+    opacity: 1;
+    }
+    .sidetab{
+    width: 136px;
+    height: 1080px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 0px 20px 20px 0px;
+    opacity: 1;
+    }
+    .textone{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    
+    text-align: left;
+    font: normal normal normal 20px/23px FC Iconic;
+    letter-spacing: 0px;
+    color: #8B929D;
+    opacity: 1;
+    }
+    .textonepic{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding: 10px;
+        color: var(--unnamed-color-ffffff);
+        text-align: left;
+        font: normal normal normal 20px/23px FC Iconic;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        }
+    .textpic{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    color: var(--unnamed-color-ffffff);
+    text-align: center;
+    font: normal normal normal 16px/19px FC Iconic;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    .texttwo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    color: var(--unnamed-color-8b929d);
+    text-align: center;
+    font: normal normal normal 16px/19px FC Iconic;
+    letter-spacing: 0px;
+    color: #8B929D;
+    opacity: 1;
+    }
+    .toptab{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 124px;
+    background: var(--unnamed-color-2a2866) 0% 0% no-repeat padding-box;
+    background: #2A2866 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    .maintext{
+    top: 35px;
+    left: 0px;
+    width: 270px;
+    height: 40px;
+    justify-self: center;
+    color: var(--unnamed-color-ffffff);
+    text-align: right;
+    font: normal normal bold 40px/48px FC Iconic;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    .subtext{
+        top: 76px;
+    left: 210px;
+    width: 190px;
+    height: 25px;
+    color: var(--unnamed-color-ffffff);
+    text-align: right;
+    font: normal normal normal 25px/30px FC Iconic;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    .font{
+    font-family: 'FCIconic';
+    }
