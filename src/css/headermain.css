@@ -1,0 +1,15 @@
+.header{
+    font-family: 'FCIconic';
+    background-color: #2A2866;
+    color: #FFFFFF;
+}
+.profile{
+    margin-left: 5em;
+    color: #FFFFFF;
+}
+.gab{
+    margin-left: 5em;
+}
+.gab-dropdown{
+    margin-left: 1em;
+}

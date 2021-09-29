@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="37" viewBox="0 0 40 37">
+  <defs>
+    <clipPath id="clip-แบดมินตัน">
+      <rect width="40" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="แบดมินตัน" clip-path="url(#clip-แบดมินตัน)">
+    <g id="Group_20740" data-name="Group 20740" transform="translate(-113.491 -1901.824)">
+      <g id="shuttlecock" transform="translate(116.332 1902.5)">
+        <g id="Group_48" data-name="Group 48" transform="translate(3.711 0)">
+          <g id="Group_47" data-name="Group 47">
+            <path id="Path_683" data-name="Path 683" d="M85.162,15.464l-5.069-1.135L65.144,25.818l-1.53-1.53,15.33-11.78L78.485,8.46a1.068,1.068,0,0,0-.944-.944l-4.327-.491L61.694,22.37l-1.53-1.532L71.8,5.33,71.311.951a1.06,1.06,0,0,0-.423-.738,1.076,1.076,0,0,0-.828-.2L63.994,1.089a1.074,1.074,0,0,0-.832.714l-5.988,17.92-1.783,1.783,9.1,9.1,1.781-1.781,17.92-5.988a1.072,1.072,0,0,0,.712-.807l1.073-5.308A1.07,1.07,0,0,0,85.162,15.464Z" transform="translate(-55.391 0)" fill="#2a2866"/>
+          </g>
+        </g>
+        <g id="Group_50" data-name="Group 50" transform="translate(0 23.025)">
+          <g id="Group_49" data-name="Group 49">
+            <path id="Path_684" data-name="Path 684" d="M2.233,343.441l-.313.313a6.435,6.435,0,1,0,9.1,9.1l.313-.313Z" transform="translate(-0.039 -343.441)" fill="#2a2866"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

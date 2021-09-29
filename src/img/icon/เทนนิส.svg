@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="37" viewBox="0 0 40 37">
+  <defs>
+    <clipPath id="clip-เทนนิส_">
+      <rect width="40" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="เทนนิส_" data-name="เทนนิส " clip-path="url(#clip-เทนนิส_)">
+    <g id="tennis-ball" transform="translate(3.128 1.629)">
+      <g id="Group_52" data-name="Group 52" transform="translate(0.001)">
+        <g id="Group_51" data-name="Group 51" transform="translate(0)">
+          <path id="Path_685" data-name="Path 685" d="M15.3.079A16.882,16.882,0,0,0,.076,15.308a21.036,21.036,0,0,1,12.17,6.217A21.016,21.016,0,0,1,18.463,33.7,16.866,16.866,0,0,0,33.688,18.47a21.048,21.048,0,0,1-12.167-6.217A21.079,21.079,0,0,1,15.3.079Z" transform="translate(-0.014 -0.014)" fill="#2a2866"/>
+          <path id="Path_686" data-name="Path 686" d="M37.446,16.363A16.859,16.859,0,0,0,21.085,0,19.074,19.074,0,0,0,26.7,10.747,19.052,19.052,0,0,0,37.446,16.363Z" transform="translate(-3.705)" fill="#2a2866"/>
+          <path id="Path_687" data-name="Path 687" d="M0,21.09A16.859,16.859,0,0,0,16.359,37.447a19.059,19.059,0,0,0-5.617-10.739A19.085,19.085,0,0,0,0,21.09Z" transform="translate(-0.001 -3.705)" fill="#2a2866"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

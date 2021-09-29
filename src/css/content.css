@@ -1,0 +1,255 @@
+.boxcontent{
+    top: 156px;
+    left: 212px;
+    width: 1634px;
+    height: 885px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #F0EFF4;
+    border-radius: 10px;
+    opacity: 1;
+    }
+    .texthead{
+    top: 190px;
+    left: 266px;
+    display: block;
+    justify-content: center;
+    color: var(--unnamed-color-2a2866);
+    font: normal normal bold 30px/25px FC Iconic;
+    letter-spacing: 0.3px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .crad{
+    position: relative;
+    top:-70px;
+    left: 75px;
+    width: 1524px;
+    height: 91px;
+    justify-content: center;
+    align-items: center;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #F0EFF4;
+    border-radius: 10px 10px 0px 0px;
+    opacity: 1;
+    }
+    .textbox{
+        text-indent: -15px;
+        margin-left: 40px;
+        margin-top: -5px;
+        justify-content: center;
+        top: 302px;
+        left: 302px;
+        width: 194px;
+        height: 22px;
+        color: var(--unnamed-color-2a2866);
+        text-align: left;
+        font: normal normal bold 22px/25px FC Iconic;
+        letter-spacing: 0.11px;
+        color: #2A2866;
+        opacity: 1;
+    }
+    .textcrad{
+        text-indent: -15px;
+        top: 310px;
+        left: 1570px;
+        width: 156px;
+        height: 19px;
+        color: var(--unnamed-color-8b929d);
+        text-align:center;
+        margin-left: 70px;
+        margin-top: -5px;
+        justify-content: center;
+        font: normal normal normal 20px/35px FC Iconic;
+        letter-spacing: 0.1px;
+        color: #8B929D;
+        opacity: 1;
+    }
+    .textboxtop{
+        text-indent: -15px;
+        text-align:center;
+        margin-left: 33px;
+        margin-top: 10px;
+        justify-content: center;
+        top: 202px;
+        left: 1601px;
+        width: 168px;
+        height: 19px;
+        color: var(--unnamed-color-ffffff);
+        text-align: left;
+        font: normal normal normal 20px/35px FC Iconic;
+        letter-spacing: 0.1px;
+        color: #FFFFFF;
+        opacity: 1;
+    }
+    .cradcreate{
+    top: -65px;
+    left: 1250px;
+    width: 241px;
+    height: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--unnamed-color-f9f9fb) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-f0eff4);
+    background: #F9F9FB 0% 0% no-repeat padding-box;
+    border: 1px solid #F0EFF4;
+    border-radius: 10px;
+    opacity: 1;
+    }
+    .cradcreateboxtop{
+    top: -100px;
+    left: 1390px;
+    width: 210px;
+    height: 57px;
+    display: flex;
+    justify-content: left;
+    background: var(--unnamed-color-2a2866) 0% 0% no-repeat padding-box;
+    background: #2A2866 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #2A286629;
+    border-radius: 10px;
+    opacity: 1;
+    }
+    .textsub{
+    padding-right: 20px;
+    color: var(--unnamed-color-2a2866);
+    text-align: left;
+    font: normal normal normal 30px/25px FC Iconic;
+    letter-spacing: 0.3px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .box4{
+    top: 391px;
+    left: 844px;
+    width: 909px;
+    height: 271px;
+    border: 1px solid var(--unnamed-color-d5d7da);
+    border: 1px solid #D5D7DA;
+    border-radius: 10px;
+    opacity: 1;
+    }
+    .inbox1{
+    text-indent: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: left;
+    color: var(--unnamed-color-2a2866);
+    align-items: right;
+    font: normal normal normal 25px/41px FC Iconic;
+    letter-spacing: 0.25px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .inbox2{
+    text-indent: 50px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: left;
+    text-align: right;
+    color: var(--unnamed-color-2a2866);
+    text-align: left;
+    font: normal normal normal 25px/23px FC Iconic;
+    letter-spacing: 0.25px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .inbox3{
+    text-indent: 50px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: left;
+    color: var(--unnamed-color-2a2866);
+    text-align: left;
+    font: normal normal normal 25px/23px FC Iconic;
+    letter-spacing: 0.25px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .inbox4{
+    text-indent: 70px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: left;
+    color: var(--unnamed-color-2a2866);
+    text-align: left;
+    font: normal normal normal 25px/23px FC Iconic;
+    letter-spacing: 0.25px;
+    color: #2A2866;
+    opacity: 1;
+    }
+    .boximage{
+    top: 300px;
+    left: 303px;
+    width: 479px;
+    height: 300px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-d5d7da);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D5D7DA;
+    opacity: 1;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    }
+    .boxstep{
+    position: relative;
+    left: 600px;
+    width: 127px;
+    height: 50px;
+    background: var(--unnamed-color-fedd10) 0% 0% no-repeat padding-box;
+    background: #FEDD10 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    }
+    .boxstep2{
+    position: relative;
+    left: 600px;
+    width: 127px;
+    height: 50px;
+    background: var(--unnamed-color-fedd10) 0% 0% no-repeat padding-box;
+    background: #FEDD10 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    }
+    .maintext{
+        text-indent: -50px;
+        top: 20px;
+        left: 200px;
+        width: 270px;
+        height: 40px;
+        display: flex;
+        direction: rtl;
+        margin-top: 20px;
+        justify-self: center;
+        color: var(--unnamed-color-ffffff);
+        text-align: center;
+        font: normal normal bold 40px/48px FC Iconic;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        }
+        .subtext{
+        text-indent: -50px;
+        top: 76px;
+        left: 210px;
+        width: 190px;
+        height: 25px;
+        display: flex;
+        direction: rtl;
+        margin-top: 0px;
+        justify-self: center;
+        color: var(--unnamed-color-ffffff);
+        text-align: right;
+        font: normal normal normal 25px/30px FC Iconic;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        }
+    
+    .font{
+        font-family: 'FCIconic';
+        }
+    
