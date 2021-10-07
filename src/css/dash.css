@@ -10,6 +10,10 @@
     justify-content: center;
     align-items: center;
 } */
+.font {
+    font-family: 'FCIconic';
+    color:#2A2866 ;
+  }
 .box4{
     font-family: 'FCIconic';
     padding-top: 20px;
@@ -41,22 +45,23 @@
     opacity: 1;
 }
 .icon-style{
-    /* float: right; */
     /* right: 10px; */
     /* position: absolute; */
-    /* display: flex-end; */
-    /* justify-content: right; */
+    /* display: flex; */
+    justify-content: flex-end;
     /* margin: auto; */
-    font-size: 8em;
+    float: right;
+    display: inline;
 }
-.set-center{
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    /* margin-left: 45%; */
-    border-radius: 50%;
-    margin-left: 15%;
-    margin-right: auto;
-    position: absolute;
 
+.set-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-radius: 50%;
+    border-color: tomato; */
+}
+
+.text-center{
+    text-align: center;
 }

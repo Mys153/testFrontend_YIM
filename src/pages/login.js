@@ -95,7 +95,6 @@ class Login extends Component {
             <Dropdown overlay={menu} className="font">
               <Button>เข้าสู่ระบบอื่นๆ</Button>
             </Dropdown>
-
           </div>
         </div>
       </div>

@@ -22,3 +22,8 @@ code {
   src: url(./font/FCIconicBold.ttf) format('truetype');
   font-weight: bold;
 }
+
+/* @primary-color {
+  color: '#1890ff';
+} */
+
